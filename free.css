@@ -2,7 +2,7 @@
 div {
   width:640px; /*要素の幅指定*/
   height:480px; /*要素の高さ指定*/
-  text-align: right;
+  text-align: center;
   background-color; iceblue;
   background-image: url(img/iriomote.jpeg);
   background-repeat:no-repeat;
