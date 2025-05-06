@@ -1,6 +1,9 @@
 body {
   text-align: center;
   background-image: url(img/iriomote.jpeg);
+  background-repeat:no-repeat
   color: beige;
-
+}
+p {
+  font-size; 200%;
 }
