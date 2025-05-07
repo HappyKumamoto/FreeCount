@@ -1,5 +1,5 @@
 
-div {
+body {
   width:640px; /*要素の幅指定*/
   height:480px; /*要素の高さ指定*/
   text-align: center;
