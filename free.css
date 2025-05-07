@@ -6,8 +6,7 @@ div {
   background-color; iceblue;
   background-image: url(img/iriomote2.jpg);
   background-repeat:no-repeat;
-/*   background-size: auto; */
-/*   color: beige; */
+  background-size: auto;
   color: ivory;
   margin-left : auto;
   margin-right : auto;
