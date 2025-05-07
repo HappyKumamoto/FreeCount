@@ -2,14 +2,14 @@
 body {
   width:640px; /*要素の幅指定*/
   height:480px; /*要素の高さ指定*/
-  text-align: center;
+/*   text-align: center; */
   background-color; iceblue;
   background-image: url(img/iriomote2.jpg);
   background-repeat:no-repeat;
 /*   background-size: auto; */
   background-position: center;
   color: #EEEEEE;
-/*   margin-left : auto; */
-/*   margin-right : auto; */
+  margin-left : auto;
+  margin-right : auto;
 }
 
