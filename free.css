@@ -1,7 +1,7 @@
 
 body {
-/*   width:640px; /*要素の幅指定*/ */
-/*   height:480px; /*要素の高さ指定*/ */
+  width:370px; /*要素の幅指定*/
+  height:480px; /*要素の高さ指定*/
   text-align: center;
   background-color; iceblue;
   background-image: url(img/iriomote2.jpg);
