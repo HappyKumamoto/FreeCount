@@ -15,5 +15,17 @@ function showRestTime() {
   document.getElementById('minute').textContent = String(minute).padStart(2, '0');
   document.getElementById('second').textContent = String(second).padStart(2, '0');
 }
-
 setInterval(showRestTime, 1000);
+
+
+
+(function() {
+let bg = ["img/asayake.jpeg",
+          "img/fuji.jpeg",
+          "img/ishiwari.jpeg"];
+          
+let r = Math.floor(Math.random() * bg.length);
+document.getElementById("backimg").style.backgroundImage = "url(" + bg[r] + ")";
+})()
+
+ 
