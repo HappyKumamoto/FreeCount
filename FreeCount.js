@@ -20,9 +20,16 @@ setInterval(showRestTime, 1000);
 
 
 (function() {
-let bg = ["img/asayake.jpeg",
-          "img/fuji.jpeg",
-          "img/ishiwari.jpeg"];
+let bg = ["img/asayake.jpg",
+          "img/fuji.jpg",
+          "img/hamada.jpg",
+          "img/iriomote2.jpg",
+          "img/iriomote3.jpg",
+          "img/ishiwari.jpg",
+          "img/kaikyou.jpg",
+          "img/kinutaUme.jpg",
+          "img/misumi.jpg",
+           ];
           
 let r = Math.floor(Math.random() * bg.length);
 document.getElementById("backimg").style.backgroundImage = "url(" + bg[r] + ")";
