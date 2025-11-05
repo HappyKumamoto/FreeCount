@@ -1,3 +1,4 @@
+'use strict';
 
 let hisBirthTime = new Date( 1928, 0, 1, 0, 0 );
 
